@@ -1,0 +1,1 @@
+this is my first HTML/CSS project in the Odin Project for Web Development 101.  It represents the accumulation of front-end lessons up to this point.  Here is a link to the course (http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
